@@ -1,13 +1,37 @@
 body {
     background-color: #000000;
-    color: #ffffff;
+    color: #a7a3a3;
     display: block;
     /* padding: 0;
     margin: 0; */
   }
 
 #app .content {
-    padding: 50px 1.5rem 1.5rem;
+    padding: 20px 1.5rem 1.5rem;
     max-width: 740px;
     margin: 0 auto;
 }
+
+#app p a{
+    color: #00a2e7;
+}
+
+/* NAVBAR */
+.navbar a{
+    text-decoration: none;
+    color: #a7a3a3;
+}
+
+.navbar li { 
+    float: right;
+    display: inline block;
+    list-style: none;
+ }
+
+.navbar li a{ 
+    padding: 25px;
+ }
+
+.navbar .site-name {
+    font-size: 30px;
+ }

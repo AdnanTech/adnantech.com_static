@@ -1,6 +1,6 @@
 body {
-    background-color: #000000;
-    color: #a7a3a3;
+    background-color: #ffffff   ;
+    color: #222222;
     display: block;
     /* padding: 0;
     margin: 0; */
@@ -13,13 +13,13 @@ body {
 }
 
 #app p a{
-    color: #00a2e7;
+    color: #00e;
 }
 
 /* NAVBAR */
 .navbar a{
     text-decoration: none;
-    color: #a7a3a3;
+    color: #222222;
 }
 
 .navbar li { 

@@ -12,9 +12,11 @@ body {
     margin: 0 auto;
 }
 
-#app p a{
-    color: #00e;
+#app p {
+    padding-top: 6px;
 }
+
+
 
 /* NAVBAR */
 .navbar a{
@@ -22,16 +24,21 @@ body {
     color: #222222;
 }
 
-.navbar li { 
+.navbar ul { 
     float: right;
     display: inline block;
     list-style: none;
  }
 
-.navbar li a{ 
+.navbar ul li a{ 
     padding: 25px;
  }
 
 .navbar .site-name {
-    font-size: 30px;
+    font-size: 36px;
  }
+ 
+ #app .content p a{
+    color: #00e;
+    margin-bottom: 10px;
+}

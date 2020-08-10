@@ -54,14 +54,9 @@ body {
 }
 
 /* COMPENDIUM */
-.compendium {
+.compendium a{
     list-style: none;
     padding: 0px;
-}
-
-/* .compendium a{
-    padding-top: 10px;
-} */
 
 .sub-topic {
     list-style: none;

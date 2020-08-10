@@ -31,6 +31,8 @@ body {
 
 .navbar .site-name {
     font-size: 36px;
+    position: relative;
+    padding: 20px 0px 0px 20px;
  }
 
  /* HOME  */
@@ -42,7 +44,8 @@ body {
 #app .content p a{
     color: #00e;
     padding-bottom: 1px;
-    display: block
+    display: block;
+    font-size: 20px;
 }
 
 

@@ -13,14 +13,16 @@ body {
 }
 
 #app p {
-    padding-top: 6px;
+    padding-top: 4px;
 }
  
 #app .content p a{
     color: #00e;
+    padding-bottom: 5px;
 }
 
 /* NAVBAR */
+
 .navbar a{
     text-decoration: none;
     color: #222222;
@@ -40,3 +42,12 @@ body {
     font-size: 36px;
  }
 
+ /* BLOG */
+.blog {
+    list-style: none;
+}
+
+.blog a {
+    display: block;
+    padding-top: 5px;
+}

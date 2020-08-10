@@ -12,15 +12,6 @@ body {
     margin: 0 auto;
 }
 
-#app p {
-    padding-top: 4px;
-}
- 
-#app .content p a{
-    color: #00e;
-    padding-bottom: 5px;
-}
-
 /* NAVBAR */
 
 .navbar a{
@@ -42,6 +33,19 @@ body {
     font-size: 36px;
  }
 
+ /* HOME  */
+
+ #app p {
+    padding-top: 4px;
+}
+ 
+#app .content p a{
+    color: #00e;
+    padding-bottom: 1px;
+    display: block
+}
+
+
  /* BLOG */
 .blog {
     list-style: none;
@@ -54,9 +58,15 @@ body {
 }
 
 /* COMPENDIUM */
-.compendium a{
-    list-style: none;
+.compendium {
     padding: 0px;
+    list-style: none;
+}
+
+.compendium a {
+    display: block;
+    padding-top: 12px;
+}
 
 .sub-topic {
     list-style: none;

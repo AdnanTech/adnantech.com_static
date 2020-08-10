@@ -2,6 +2,8 @@ body {
     background-color: #ffffff   ;
     color: #222222;
     display: block;
+    /* padding: 0;
+    margin: 0; */
   }
 
 #app .content {
@@ -13,7 +15,10 @@ body {
 #app p {
     padding-top: 6px;
 }
-
+ 
+#app .content p a{
+    color: #00e;
+}
 
 /* NAVBAR */
 .navbar a{
@@ -34,8 +39,4 @@ body {
 .navbar .site-name {
     font-size: 36px;
  }
- 
-#app .content p a{
-    color: #00e;
-    padding-bottom: 25px;
-}
+

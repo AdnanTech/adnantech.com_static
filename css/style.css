@@ -62,6 +62,22 @@ body {
 /* .compendium a{
     padding-top: 10px;
 } */
+
 .sub-topic {
     list-style: none;
+}
+
+/* BOOKS */
+.container {
+    padding-top: 10px;
+}
+
+.container p{
+    padding-left: 100px;
+    margin: 0px;
+}
+
+.container h3{
+    margin: 0px;
+    padding-left: 100px;
 }

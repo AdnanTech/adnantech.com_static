@@ -17,7 +17,6 @@ body {
 }
 
 
-
 /* NAVBAR */
 .navbar a{
     text-decoration: none;
@@ -38,7 +37,7 @@ body {
     font-size: 36px;
  }
  
- #app .content p a{
+#app .content p a{
     color: #00e;
-    margin-bottom: 10px;
+    padding-bottom: 25px;
 }

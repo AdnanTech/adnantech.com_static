@@ -52,3 +52,16 @@ body {
     display: block;
     padding-top: 12px;
 }
+
+/* COMPENDIUM */
+.compendium {
+    list-style: none;
+    padding: 0px;
+}
+
+/* .compendium a{
+    padding-top: 10px;
+} */
+.sub-topic {
+    list-style: none;
+}
